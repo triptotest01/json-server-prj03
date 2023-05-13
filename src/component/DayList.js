@@ -12,6 +12,7 @@ export default function DayList(){
 
   // // useEffect(함수, []) --> 초기 화면 렌더링이후 한번만 실행! 
   // // 즉, 렌더링이후,  json 데이터를 한번 가져옴 
+  
   // useEffect(()=>{
   //   fetch("http://localhost:4000/days")
   //   .then(res => {return res.json();})
