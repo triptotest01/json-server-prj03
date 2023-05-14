@@ -13,9 +13,7 @@ export default function CreateWord() {
 
       fetch(`http://localhost:4000/words/`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
+        headers: {"Content-Type": "application/json"},
         body: JSON.stringify({
           day: dayRef.current.value,
           eng: engRef.current.value,

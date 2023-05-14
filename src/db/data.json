@@ -53,7 +53,8 @@
       "kor": "변수",
       "isDone": false
     },
-    { "id": 1,
+    {
+      "id": 1,
       "day": 1,
       "eng": "parentheses",
       "kor": "소괄호",
@@ -80,23 +81,47 @@
       "kor": "매개변수",
       "isDone": false
     },
-    { "id": 3,
+    {
+      "id": 3,
       "day": 3,
       "eng": "constant",
       "kor": "상수 (JS의 const)",
       "isDone": false
     },
-    { "id": 4,
+    {
+      "id": 4,
       "day": 4,
       "eng": "loop",
       "kor": "반복",
       "isDone": false
     },
-    { "id": 4,
+    {
+      "id": 4,
       "day": 4,
       "eng": "String",
       "kor": "문자열",
       "isDone": false
+    },
+    {
+      "day": "4",
+      "eng": "destructuring ",
+      "kor": "비구조화 (할당) / 구조분해 ",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "day": "1",
+      "eng": "a",
+      "kor": "에이",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "3",
+      "eng": "a",
+      "kor": "에이",
+      "isDone": false,
+      "id": 7
     }
   ]
 }

@@ -10,7 +10,7 @@ export default function Header(){
       <div className="menu">
 
         <Link to="/create_word" className="link"> 단어 추가</Link>
-        {/* <Link to="/create_day"className="link" > day 추가</Link> */}
+        <Link to="/create_day"className="link" > day 추가</Link>
       </div>
     </div>
   )
